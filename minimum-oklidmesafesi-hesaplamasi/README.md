@@ -1,6 +1,4 @@
-# CyberStart Ödevleri
-
-## Minimum Öklid Mesafesi Hesaplama
+# Minimum Öklid Mesafesi Hesaplama
 
 Bu Python projesi, **2D uzayda iki nokta arasındaki minimum Öklid mesafesini** hesaplamak için geliştirilmiştir. Python dilinde yazılmıştır ve temel matematiksel hesaplamalar kullanır. Bu proje, Python dilinin fonksiyonlar, döngüler ve listeler gibi temel özelliklerini kullanarak birden fazla nokta arasındaki en kısa mesafeyi bulur.
 
@@ -17,7 +15,6 @@ Projede Python fonksiyonları ve döngüler kullanılarak, birden fazla noktadan
 ---
 
 ## Kurulum
-
 Proje, Python 3.x ile çalışır. Projeyi çalıştırmadan önce aşağıdaki adımları takip edin:
 
 1. **GitHub repository'sini klonlayın:**
@@ -27,14 +24,14 @@ Proje, Python 3.x ile çalışır. Projeyi çalıştırmadan önce aşağıdaki 
 
 3. Projeyi çalıştırın:
    ```bash
-      python minimum-oklid-mesafesi-hesaplamasi.py
+   python
+   minimum-oklid-mesafesi-hesaplamasi.py
    
 ## Kullanım
 Proje, 2D uzayda birden fazla nokta arasındaki en küçük mesafeyi hesaplar. points listesine istediğiniz noktaları ekleyebilirsiniz. Her nokta (x, y) şeklinde bir demet olmalıdır. Program, bu noktalar arasındaki mesafeleri hesaplayacak ve en küçük mesafeyi ekrana yazdıracaktır.
 
 **Örnek Kullanım:**
-   ```bash
-      python
+   ```python
       points = [(1, 2), (4, 6), (7, 8)]
    ```
 Bu örnekte, program points listesinde belirtilen noktalar arasındaki en küçük mesafeyi hesaplar ve çıktıyı ekrana yazdırır.

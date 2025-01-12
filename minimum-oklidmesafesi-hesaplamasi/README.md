@@ -19,7 +19,7 @@ Bu proje, verilen bir dizi 2D nokta arasında **Öklid mesafesini** hesaplayarak
 3.  Proje dosyasını çalıştırın:
    ```bash
    python minimum-oklid-mesafesi-hesaplamasi.py
-
+```
 ## Kullanım
 
 **points** listesine istediğiniz noktaları ekleyin. Her nokta **(x, y)** şeklinde bir demet olmalıdır. Program, bu noktalar arasındaki mesafeleri hesaplayacak ve en küçük mesafeyi verecektir.

@@ -30,14 +30,5 @@ Bu proje, verilen bir dizi 2D nokta arasında **Öklid mesafesini** hesaplayarak
 ```
 Program çalıştığında, minimum Öklid mesafesi hesaplanır ve ekrana yazdırılır.
 
-## Katkıda Bulunma  
-
-1. Fork yapın.
-2. Yeni bir branch oluşturun (git checkout -b feature-isim).
-3. Değişikliklerinizi yapın.
-4. Commit edin (git commit -am 'Yeni özellik ekledim').
-5. Push edin (git push origin feature-isim).
-6. Pull request gönderin.
-
 ## Lisans
 Bu proje **MIT Lisansı** ile lisanslanmıştır.

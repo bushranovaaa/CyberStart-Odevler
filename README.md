@@ -8,16 +8,16 @@ Bu repository, CyberStart programında yer alan Python tabanlı ödevleri içerm
 
 ## Kullanım
 
-1. Repository'yi klonlayın:
+**1. Repository'yi klonlayın:**
    ```bash
    git clone https://github.com/bushrasac35/CyberStart-Odevler.git
+```
+**2. Python 3.x'in yüklü olduğundan emin olun.**
 
-2. Python 3.x'in yüklü olduğundan emin olun.
-
-
-3. Proje dosyasını çalıştırın:
+**3. Proje dosyasını çalıştırın:**
    ```bash
     python minimum-oklid-mesafesi-hesaplamasi.py
+```
 
 ## Lisans
 
